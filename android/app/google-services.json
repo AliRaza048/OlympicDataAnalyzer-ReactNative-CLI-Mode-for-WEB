@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "845096561813",
+    "project_id": "olympicsdataanalyser-dba06",
+    "storage_bucket": "olympicsdataanalyser-dba06.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:845096561813:android:64a55505c2c7ca26233f9c",
+        "android_client_info": {
+          "package_name": "com.project8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "key"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
